@@ -1,1 +1,3 @@
-# colorFlipper_JS
+
+ Color Flipper - JavaScript
+ For studding proposes 
