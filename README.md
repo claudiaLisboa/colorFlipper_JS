@@ -1,5 +1,21 @@
+#Color Flipper
 
+ 
+#JavaScript - working with the DOM
 
+#For studding proposes 
+
+#create a random background color changer
+
+#document.getElementById()
+
+#document.querySelector()
+
+#document.body.style.backgroundColor
+
+#Math.random()
+
+#Math.floor()
  
  
 <img width="1423" alt="Screen Shot 2022-02-12 at 7 20 58 PM" src="https://user-images.githubusercontent.com/21189063/153733207-4f8d88cd-abe5-45ec-8e76-fa7955324d0b.png">
