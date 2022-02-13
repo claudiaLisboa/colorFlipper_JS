@@ -1,5 +1,4 @@
 
-[Color Flipper.txt.docx](https://github.com/claudiaLisboa/colorFlipper_JS/files/8054764/Color.Flipper.txt.docx)
 
  
  
