@@ -1,6 +1,15 @@
 
- Color Flipper - JavaScript
- For studding proposes 
+ #Color Flipper 
+ #For studding proposes 
+ #create a random background color changer
+ #JavaScript - working with the DOM
+ #document.getElementById()
+ #document.querySelector()
+ #document.body.style.backgroundColor
+ #Math.random()
+ #Math.floor()
+ 
+ 
 <img width="1423" alt="Screen Shot 2022-02-12 at 7 20 58 PM" src="https://user-images.githubusercontent.com/21189063/153733207-4f8d88cd-abe5-45ec-8e76-fa7955324d0b.png">
 
 <img width="1423" alt="Screen Shot 2022-02-12 at 7 21 29 PM" src="https://user-images.githubusercontent.com/21189063/153733215-83ca3ea6-3a1d-4b67-bd9e-98b67d081025.png">
